@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/burakkara0770/azurepipeline/_apis/build/status/KaraBurak.pipelines-java?branchName=master)](https://dev.azure.com/burakkara0770/azurepipeline/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
